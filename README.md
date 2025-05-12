@@ -30,4 +30,3 @@ Cyrillic support
 Frequency sorting (high to low)
 Alphabetical sorting for ties
 
-Copy this text directly into README.md. No formatting needed.
